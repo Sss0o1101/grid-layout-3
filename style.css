@@ -17,7 +17,7 @@ body {
     margin-bottom: 20px; /* 下に余白を追加 */
 }
 
-.item {
+.item1 {
     flex: 0 0 calc(25% - 20px); /* 各アイテムの幅を25%からマージンを引いた値に設定 */
     box-sizing: border-box;
     margin: 10px;
@@ -43,7 +43,7 @@ body {
     border-radius: 10px;
 }
 
-.grid-item {
+.item2 {
     background-color: #6c3bba;
     color: white;
     font-size: 24px;
