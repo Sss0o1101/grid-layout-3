@@ -8,7 +8,7 @@ body {
     margin: 0; /* デフォルトのマージンをリセット */
 }
 
-/* ... 既存のコード ... */
+
 
 .grid-container1 {
     display: flex;
@@ -58,7 +58,7 @@ body {
     height: 100px; /* 各アイテムの高さ */
 }
 
-/* ... 既存のコード ... */
+
 
 .grid-container3 {
     display: grid;
@@ -83,4 +83,3 @@ body {
     height: 100px; /* 各アイテムの高さ */
 }
 
-/* ... 既存のコード ... */
